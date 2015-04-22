@@ -21,5 +21,9 @@ public class ResourceController {
 		Resource resource=service.getService();
 		return resource;
 	}
+	@RequestMapping("/welcome")
+	String home(){
+		return "helloWorld";
+	}
 	
 }
