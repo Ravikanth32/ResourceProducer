@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: ResourceProducer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ResourceProducer
+Build-Jdk: 1.7.0_21
+Built-By: KING
+Created-By: Maven Integration for Eclipse
+Main-Class: demo.ResourceProducerApplication
+
